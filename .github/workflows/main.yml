@@ -30,4 +30,4 @@ jobs:
           # path: main
       #Runs a single command using the runners shell
       - name: call tag update action
-        uses: cbryantompkins/composite-action@v1
+        uses: cbryantompkins/composite-action@v2
