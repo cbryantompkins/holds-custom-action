@@ -33,4 +33,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:    
       - name: call tag update action
-        uses: cbryantompkins/composite-action
+        uses: cbryantompkins/composite-action@v3
